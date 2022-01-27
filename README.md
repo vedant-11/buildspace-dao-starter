@@ -1,4 +1,4 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+# Created ideaDAO that helps their members to vote on the ideas they like
 
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
